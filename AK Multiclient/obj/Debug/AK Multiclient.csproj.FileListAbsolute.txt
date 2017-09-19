@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\AK Multiclient\AK Multiclient\bin\Debug\AK Multiclient.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\AK Multiclient\AK Multiclient\bin\Debug\AK Multiclient.exe
+c:\users\admin\documents\visual studio 2015\Projects\AK Multiclient\AK Multiclient\bin\Debug\AK Multiclient.pdb
+c:\users\admin\documents\visual studio 2015\Projects\AK Multiclient\AK Multiclient\obj\Debug\AK Multiclient.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\AK Multiclient\AK Multiclient\obj\Debug\AK_Multiclient.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\AK Multiclient\AK Multiclient\obj\Debug\AK_Multiclient.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\AK Multiclient\AK Multiclient\obj\Debug\AK Multiclient.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\AK Multiclient\AK Multiclient\obj\Debug\AK Multiclient.exe
+c:\users\admin\documents\visual studio 2015\Projects\AK Multiclient\AK Multiclient\obj\Debug\AK Multiclient.pdb
